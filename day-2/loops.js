@@ -34,7 +34,7 @@ function vowelsAndConsonants(s) {
     if (vowels.includes(char)) {
       console.log(char);
     } else {
-      consonants += char; // Store consonants to print later
+      consonants += char;
     }
   }
 
